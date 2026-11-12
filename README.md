@@ -43,12 +43,12 @@ Commercial analytics project focused on evaluating Welli's partner network, iden
 welli-commercial-analytics/
 │
 ├── README.md
-├── notebooks/
-│   └── Welli_Commercial_Data_Analysis.ipynb
+├── Welli_Commercial_Data_Analysis.ipynb
 ├── sql/
 │   ├── 01_segment_ranking.sql
 │   └── 02_inactivity_classification.sql
 └── presentation/
+    ├── README.md
     └── Welli_Executive_Presentation.pdf
 ```
 
